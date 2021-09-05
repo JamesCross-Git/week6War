@@ -1,3 +1,5 @@
+// I watched and followed along to Web Dev Simplified. Link: https://www.youtube.com/watch?v=NxRwIZWjLtE
+
 const SUITS = ["♠", "♣", "♥", "♦"]
 const VALUES = [
   "2",
